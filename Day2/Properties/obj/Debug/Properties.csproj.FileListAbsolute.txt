@@ -1,0 +1,9 @@
+D:\C#\Day2\Properties\bin\Debug\Properties.exe.config
+D:\C#\Day2\Properties\bin\Debug\Properties.exe
+D:\C#\Day2\Properties\bin\Debug\Properties.pdb
+D:\C#\Day2\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+D:\C#\Day2\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+D:\C#\Day2\Properties\obj\Debug\Properties.exe
+D:\C#\Day2\Properties\obj\Debug\Properties.pdb
+C:\Users\prpatil2\Desktop\MS.NET\day2\Properties\obj\Debug\Properties.exe
+C:\Users\prpatil2\Desktop\MS.NET\day2\Properties\obj\Debug\Properties.pdb
